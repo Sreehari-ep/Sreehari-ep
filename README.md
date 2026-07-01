@@ -100,16 +100,8 @@
 
 ---
 
-### 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Sreehari-ep&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=4F8EF7&style=flat" alt="Profile Views"/>
+  <img src="https://github.com/Sreehari-ep" alt="Profile Views"/>
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
