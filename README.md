@@ -7,16 +7,16 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Data Science fresher based in **Malappuram, Kerala, India**
-- 🔭 Currently building end-to-end ML projects across **crypto forecasting, market analytics, and computer vision**
-- 🌱 Sharpening skills in **Python, SQL, Power BI, Machine Learning & Deep Learning**
-- 💼 Also offering data analysis services on **Fiverr**
-- 👯 Open to collaborating on **Data Science / ML / AI** projects
-- 💬 Ask me about **Python, Machine Learning, Streamlit, or crypto data**
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: I like finding signals in the noise — literally, my flagship project predicts crypto price direction
+-  Data Science fresher based in **Malappuram, Kerala, India**
+-  Currently building end-to-end ML projects across **crypto forecasting, market analytics, and computer vision**
+-  Sharpening skills in **Python, SQL, Power BI, Machine Learning & Deep Learning**
+-  Also offering data analysis services on **Fiverr**
+-  Open to collaborating on **Data Science / ML / AI** projects
+-  Ask me about **Python, Machine Learning, Streamlit, or crypto data**
+-  Reach me at: **your-email@example.com**
+-  Fun fact: I like finding signals in the noise — literally, my flagship project predicts crypto price direction
 
 ---
 
@@ -26,13 +26,13 @@
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="www.linkedin.com/in/sreehari-ep" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://fiverr.com/your-fiverr-handle" target="_blank">
+  <a href="https://www.fiverr.com/s/XLGoL0G" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sreehariep126@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -42,7 +42,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,figma,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,excel,powerbi" />
 </p>
 
 <p align="left">
