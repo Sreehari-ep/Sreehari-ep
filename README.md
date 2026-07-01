@@ -15,7 +15,7 @@
 -  Also offering data analysis services on **Fiverr**
 -  Open to collaborating on **Data Science / ML / AI** projects
 -  Ask me about **Python, Machine Learning, Streamlit, or crypto data**
--  Reach me at: **your-email@example.com**
+-  Reach me at: **sreehariep126@gmail.com**
 -  Fun fact: I like finding signals in the noise — literally, my flagship project predicts crypto price direction
 
 ---
